@@ -14,3 +14,18 @@ The dataset is made manually by running the Image Collection python file that co
 * Yes ✔️
 * No ❎
 
+### Created an  environment
+```
+conda create -p venv python=3.8 -y
+
+```
+
+### Activate the Created environment
+
+```
+conda activate venv/
+```
+### Install all necessary libraries
+```
+pip install -r requirements.txt
+```

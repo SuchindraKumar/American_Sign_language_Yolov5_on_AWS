@@ -16,14 +16,14 @@ The dataset is made manually by running the Image Collection python file that co
 
 ### Created an  environment
 ```
-conda create -p venv python=3.7 -y
+conda create -n als_to_eng python=3.7 -y
 
 ```
 
 ### Activate the Created environment
 
 ```
-conda activate venv/
+conda activate als_to_eng
 ```
 ### Install all necessary libraries
 ```

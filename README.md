@@ -16,7 +16,7 @@ The dataset is made manually by running the Image Collection python file that co
 
 ### Created an  environment
 ```
-conda create -p venv python=3.8 -y
+conda create -p venv python=3.7 -y
 
 ```
 
